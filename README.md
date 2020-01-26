@@ -1,2 +1,2 @@
-# 1.-Fake-News-Detection-Python-Project
+# 2-Traffic-Signs-Recognition-Python-Project
 #name boshara alsadig ali boshara
